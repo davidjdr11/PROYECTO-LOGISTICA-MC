@@ -27,7 +27,7 @@ INSTANCIAS = {
     1: "Instancia 1",
     2: "Instancia 2",
     3: "Instancia 3",
-    4: ["Instancia 4", "4 Instancia"],
+    4: "4 Instancia",
     5: "Instancia 5",
     7: "Instancia 7"
 }
